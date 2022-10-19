@@ -1,2 +1,2 @@
 # MMOByte-News
-d
+(https://ezclops.github.io/MMOByte-News/index.html)
